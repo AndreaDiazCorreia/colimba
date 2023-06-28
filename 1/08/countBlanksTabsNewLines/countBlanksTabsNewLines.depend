@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687838778 source:c:\users\andre\onedrive\documents\c\countblankstabsnewlines\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687556702 source:c:\users\andre\onedrive\documents\c\fahrenheitcelsiustable\main.c
+	<stdio.h>
+	<stdlib.h>
+

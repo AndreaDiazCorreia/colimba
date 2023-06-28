@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687872162 source:c:\users\andre\onedrive\documents\c\histogramoflengths\main.c
+	<stdio.h>
+	<stdlib.h>
+

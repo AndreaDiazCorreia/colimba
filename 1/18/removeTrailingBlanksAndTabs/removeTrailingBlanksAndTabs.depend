@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687878379 source:c:\users\andre\onedrive\documents\c\removetrailingblanksandtabs\main.c
+	<stdio.h>
+	<stdlib.h>
+
