@@ -12,12 +12,12 @@ int main()
 {
     char line[MAX];
 
-    printf("Ingrese una línea de texto:\n");
+    printf("Ingrese una linea de texto:\n");
     fgets(line, MAX, stdin);
 
     foldLine(line, COLUMN);
 
-    printf("Línea plegada:\n%s\n", line);
+    printf("Linea plegada:\n%s\n", line);
     return 0;
 }
 

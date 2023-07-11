@@ -1,0 +1,7 @@
+# Ignorar archivos generados por Code::Blocks
+*.layout
+*.depend
+*.cbp
+*.o
+*.obj
+*.exe
